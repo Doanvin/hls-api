@@ -1,5 +1,5 @@
 {
-  "name": "HLS-node",
+  "name": "hls-api",
   "version": "0.1.0",
   "description": "Backend API for hook line sinker database",
   "main": "app.ts",
